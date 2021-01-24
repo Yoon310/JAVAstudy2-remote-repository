@@ -19,7 +19,7 @@ public class hack {
 		else if(r==e-c)
 			System.out.println("Output: does not matter ");
 		else
-			System.out.println("Output: do not advertise ");
+			System.out.println("Output: do not advertise 1");
 	}
 
 }

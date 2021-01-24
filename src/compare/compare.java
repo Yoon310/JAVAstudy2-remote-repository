@@ -18,7 +18,7 @@ public class compare {
 		else if(a==b)
 			System.out.println("Output: = ");
 		else
-			System.out.println("Output: > ");
+			System.out.println("Output: > 1");
 		
 	}
 

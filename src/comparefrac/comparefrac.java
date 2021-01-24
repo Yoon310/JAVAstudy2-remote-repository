@@ -20,7 +20,7 @@ public class comparefrac {
 		else if(a/b==c/d)
 			System.out.println("Output: 0 ");
 		else
-			System.out.println("Output: -1 ");
+			System.out.println("Output: -1 1");
 
 	}
 

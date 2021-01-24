@@ -23,7 +23,7 @@ public class swimming {
 		if(a==1||a==3||a==5)
 			System.out.println("Output: enjoy ");
 		else
-			System.out.println("Output: oops ");
+			System.out.println("Output: oops 1");
 
 	}
 
