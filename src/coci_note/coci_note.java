@@ -24,7 +24,7 @@ public class coci_note {
 		else if(c==8&&d==7&&e==6&&f==5&&g==4&&a==3&&h==2&&C==1)
 			System.out.println("Output: descending ");
 		else
-			System.out.println("Output: mixed 1");
+			System.out.println("Output: mixed ");
 
 	}
 
