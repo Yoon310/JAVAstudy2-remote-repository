@@ -15,16 +15,14 @@ public class seq {
 		
 		System.out.print("Output : ");
 		if(a<b) {
-			for(i=a;i<b;i++) {
+			for(i=a;i<=b;i++) {
 				System.out.print(i+" ");
 			}
-			System.out.print(i);
 		}
 		else {
-			for(i=b;i<a;i++) {
+			for(i=b;i<=a;i++) {
 				System.out.print(i+" ");
 			}
-			System.out.print(i);
 		}
 		
 	}
