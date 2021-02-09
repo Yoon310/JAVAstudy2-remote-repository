@@ -9,21 +9,22 @@ public class seq {
 		
 		int a,b,i;
 		
-		System.out.print("Input : ");
+		System.out.print("Input :");
 		a=sc.nextInt();
 		b=sc.nextInt();
 		
 		System.out.print("Output : ");
 		if(a<b) {
-			for(i=a;i<=b;i++) {
+			for(i=a;i<b;i++) {
 				System.out.print(i+" ");
 			}
 		}
 		else {
-			for(i=b;i<=a;i++) {
+			for(i=b;i<a;i++) {
 				System.out.print(i+" ");
 			}
 		}
+		System.out.print(i);
 		
 	}
 
